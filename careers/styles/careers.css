@@ -1,0 +1,201 @@
+body{
+    overflow-x: hidden;
+
+}
+body h1{
+    color: #495567 !important;
+}
+body h2{
+    color: #495567 !important;
+}
+body h3{
+    color:#495567 !important;
+}
+body p{
+    color:#939CAA !important;
+}
+.container-fluid{
+    width: 1440px !important;
+
+}
+.nav_item .btn{
+    background:#FCB72B;
+    color:white;
+}
+.li_list{
+    margin: 15px;
+    list-style-type: none !important;
+}
+.ul_list{
+    margin-top: 20px;
+}
+.nav_item .btn:hover{
+    background:none;
+    color:#FCB72B;
+}
+.li_list .link:hover{
+    color:#FCB72B;
+}
+.link{
+    color: #939CAA;
+}
+.navbar{
+    background:white !important;
+    
+    height: 96px !important;
+    width: 1440px !important;
+}
+.navbar .list{
+    width: 80% !important;
+    margin: 0 auto !important;
+}
+.wrapper{
+    color: white !important;
+    background:url(../images/back.png) !important;
+}
+.wrapper .about{
+    color:white !important;
+    font-size: 50px;
+    margin: 72px 0 !important;
+    margin-left: 165px !important;
+}
+.wrapper .circul{
+    margin: 72px 0 !important;
+}
+
+.animation-card{
+    width: 80% !important;
+    margin-bottom: 17px !important;
+}
+.text2{
+    
+    margin: 0 auto !important;
+    margin-top: 206px !important;
+    margin-left: 130px !important;
+}
+.text2 .btn{
+    margin-top: 54px !important;
+    color:white;
+    
+    border: 2px solid #FCB72B;
+    background: #FCB72B;
+    margin-bottom: 146px !important;
+}
+.text2 .btn:hover{
+    margin-top: 54px !important;
+    color:#FCB72B;
+    
+    border: 2px solid #FCB72B;
+    background:none !important;
+    margin-bottom: 166px !important;
+}
+
+.img4{
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 700px;
+    
+}
+.img2{
+    margin-top:130px;
+    margin-left: 800px;
+position: absolute;
+    animation-name: imgAnimation;
+    animation-duration: 3s;
+    overflow: visible;
+    animation-timing-function: linear;
+}
+
+@keyframes imgAnimation{
+    0%{
+    position: absolute;
+    left: 800px;
+    }
+    100%{
+        position: absolute;
+        left: 100px;
+    }
+}
+
+
+.people{
+    margin-top: 78px !important;
+    margin-bottom: 108px !important;
+    width: 80% !important;
+}
+.numbers{
+    background:#FCB72B;
+    margin-top: -95px !important;
+    margin-left: 135px !important;
+    padding: 28px !important;
+}
+.number h3{
+    color:#495567 !important;
+}
+.number p{
+    color:#939CAA !important;
+}
+
+.card3{
+    background: #F2F5F9;
+    width: 80% !important;
+    margin-top: 24px !important;
+}
+.card3 .btn{
+    margin: 15px 0;
+    color:white;
+    padding: 0 64px;
+    border: 2px solid #FCB72B;
+    background:#FCB72B;
+}
+.card3 .btn:hover{
+    
+    color:#FCB72B;
+    padding: 0 64px;
+    border: 2px solid #FCB72B;
+    background:none;
+}
+
+
+.brand{
+    margin-top: 310px !important;
+    width: 100% !important;
+    height: 300px !important;
+    background: #495567;
+    
+}
+.brand .markets{
+    color:white !important;
+    width: 80% !important;
+    margin: 0 auto !important;
+
+}
+.markets .text5{
+    color:#FFFFFF !important;
+}
+footer{
+
+    width: 100% !important;
+    height: 96px !important;
+    background: #333A44 !important;   
+}
+footer .icon{
+    padding-top: 20px !important;
+    color:white;
+    width: 80% !important;
+}
+.ul_list{
+    margin-top: 20px;
+    list-style-type: none;
+    color:#939CAA;
+}
+.li_list{
+    margin: 0 15px;
+}
+
+.icons img:hover{
+    background: white;
+}
+.icons .two{
+    margin: 0 15px !important;
+}

@@ -1,0 +1,115 @@
+body{
+    overflow-x: hidden;
+
+}
+body h1{
+    color: #495567 !important;
+}
+body h2{
+    color: #495567 !important;
+}
+body h3{
+    color:#495567 !important;
+}
+body p{
+    color:#939CAA !important;
+}
+.container-fluid{
+    width: 1440px !important;
+
+}
+.nav_item .btn{
+    background:#FCB72B;
+    color:white;
+}
+.li_list{
+    margin: 15px;
+    list-style-type: none !important;
+}
+.ul_list{
+    margin-top: 20px;
+}
+.nav_item .btn:hover{
+    background:none;
+    color:#FCB72B;
+}
+.li_list .link:hover{
+    color:#FCB72B;
+}
+.link{
+    color: #939CAA;
+}
+.navbar{
+    background:white !important;
+    
+    height: 96px !important;
+    width: 1440px !important;
+}
+.navbar .list{
+    width: 80% !important;
+    margin: 0 auto !important;
+}
+.wrapper{
+    color: white !important;
+    background:url(../images/back.png) !important;
+}
+.wrapper .about{
+    color:white !important;
+    font-size: 50px;
+    margin: 72px 0 !important;
+    margin-left: 165px !important;
+}
+.wrapper .circul{
+    margin: 72px 0 !important;
+}
+.countries{
+    width: 80%;
+    margin-top: 150px !important;
+}
+.card2{
+    margin-top: 150px !important;
+    
+}
+
+.brand{
+    margin-top: 310px !important;
+    width: 100% !important;
+    height: 300px !important;
+    background: #495567;
+    
+}
+.brand .markets{
+    color:white !important;
+    width: 80% !important;
+    margin: 0 auto !important;
+
+}
+.markets .text5{
+    color:#FFFFFF !important;
+}
+footer{
+
+    width: 100% !important;
+    height: 96px !important;
+    background: #333A44 !important;   
+}
+footer .icon{
+    padding-top: 20px !important;
+    color:white;
+    width: 80% !important;
+}
+.ul_list{
+    margin-top: 20px;
+    list-style-type: none;
+    color:#939CAA;
+}
+.li_list{
+    margin: 0 15px;
+}
+
+.icons img:hover{
+    background: white;
+}
+.icons .two{
+    margin: 0 15px !important;
+}

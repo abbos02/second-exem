@@ -1,0 +1,253 @@
+body{
+    overflow-x: hidden !important;
+}
+.container-fluid{
+    width: 1440px !important;
+
+}
+.nav_item .btn{
+    background:#FCB72B;
+    color:white;
+}
+.li_list{
+    list-style-type: none !important;
+}
+.nav_item .btn:hover{
+    background:none;
+    color:#FCB72B;
+}
+.li_list .link:hover{
+    color:#FCB72B;
+}
+.link{
+    color: #939CAA;
+}
+.navbar{
+    background:white !important;
+    
+    height: 96px !important;
+    width: 1440px !important;
+}
+.navbar .list{
+    width: 80% !important;
+    margin: 0 auto !important;
+}
+.container-item{
+    background-repeat:no-repeat;
+    width: 1440px;
+    color: white !important;
+    background: url(../images/Bitmap.svg);
+
+}
+.container-item h1{
+    margin-left: 165px !important;
+    padding-top: 153px !important;
+}
+.container-item p{
+    padding-top: 40px !important;
+    margin-left: 295px !important;
+}
+.text .first{
+    position: relative !important;
+    margin-top: -380px; ;
+}
+.text .second{
+    position: relative !important;
+    margin-top: -250px; 
+    margin-left: 500px;
+}
+.text .btn{
+    margin-top: 54px !important;
+    color:white;
+    margin-left: -870px !important;
+    border: 2px solid #FCB72B;
+    background: #FCB72B;
+    margin-bottom: 146px !important;
+}
+.text .btn:hover{
+    margin-top: 54px !important;
+    color:#FCB72B;
+    margin-left: -870px !important;
+    border: 2px solid #FCB72B !important;
+    background:none !important;
+    margin-bottom: 146px !important;
+}
+
+.box .img{
+    position: relative;
+    margin-top: -60px !important;
+
+}
+.path{
+    position: relative;
+    margin-top: 50px;
+    margin-top: 208px !important;
+}
+.technique{
+    margin: 0 20px !important;
+}
+.technique .img{
+    border-radius: 50px;
+    padding: 24px !important;
+    width: 28%;
+    background: #FCB72B;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+.technique img{
+    padding-left: 10px;
+    
+}
+.technique h4{
+    margin-top: 40px !important;
+    margin-bottom: 24px !important;
+}
+.animation-card{
+    width: 80% !important;
+    margin-bottom: 17px !important;
+}
+.text2{
+    
+    margin: 0 auto !important;
+    margin-top: 206px !important;
+    margin-left: 130px !important;
+}
+.text2 .btn{
+    margin-top: 54px !important;
+    color:white;
+    
+    border: 2px solid #FCB72B;
+    background: #FCB72B;
+    margin-bottom: 146px !important;
+}
+.text2 .btn:hover{
+    margin-top: 54px !important;
+    color:#FCB72B;
+    
+    border: 2px solid #FCB72B;
+    background:none !important;
+    margin-bottom: 166px !important;
+}
+
+.img4{
+    position: absolute;
+    margin-top: 420px;
+    margin-left: 700px;
+    
+}
+.img2{
+    margin-top:130px;
+    margin-left: 800px;
+position: absolute;
+    animation-name: imgAnimation;
+    animation-duration: 3s;
+    overflow: visible;
+    animation-timing-function: linear;
+}
+
+@keyframes imgAnimation{
+    0%{
+    position: absolute;
+    left: 800px;
+    }
+    100%{
+        position: absolute;
+        left: 100px;
+    }
+}
+
+.text3{
+    
+    margin-top: 206px !important;
+    margin-left: 750px !important;
+}
+.text3 .btn{
+    margin-top: 54px !important;
+    color:white;
+    
+    border: 2px solid #FCB72B;
+    background: #FCB72B;
+    margin-bottom: 146px !important;
+}
+.text3 .btn:hover{
+    margin-top: 54px !important;
+    color:#FCB72B;
+    
+    border: 2px solid #FCB72B;
+    background:none !important;
+    margin-bottom: 166px !important;
+}
+
+.img6{
+    position: absolute;
+    margin-left: -100px;
+    margin-top: 130px;
+    
+}
+.img5{
+    margin-top:130px;
+    margin-left: -300px;
+    position: absolute;
+    animation-name: img2Animation;
+    animation-duration: 3s;
+    overflow: visible;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+@keyframes img2Animation{
+    0%{
+    position: absolute;
+    left: -500px;
+    }
+    100%{
+        position: absolute;
+        left: 500px;
+    }
+}
+
+.img7{
+    position: absolute !important;
+    margin-top: 200px !important;
+    margin-left: 1050px !important;    
+}
+
+.brand{
+    margin-top: 310px !important;
+    width: 100% !important;
+    height: 300px !important;
+    background: #495567;
+    
+}
+.brand .markets{
+    color:white;
+    width: 80% !important;
+    margin: 0 auto !important;
+
+}
+footer{
+
+    width: 100% !important;
+    height: 96px !important;
+    background: #333A44 !important;   
+}
+footer .icon{
+    color:white;
+    width: 80% !important;
+}
+.ul_list{
+    margin-top: 20px;
+    list-style-type: none;
+    color:#939CAA;
+}
+.li_list{
+    margin: 0 15px;
+}
+.icons{
+    margin-top: 20px;
+}
+.icons img:hover{
+    background: white;
+}
